@@ -1,1 +1,1 @@
-FLASK_APP=routes.py flask run
+FLASK_APP=app.py flask run
